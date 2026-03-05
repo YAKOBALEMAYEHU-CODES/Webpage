@@ -7,6 +7,6 @@ Styled text using inline CSS and Background image design
 ## Technologies Used
 HTML AND inlined CSS
 ## How to Run the Project
-make the two files together in a folder inorder to access the background image
+Make the two files together in a folder inorder to access the background image
 ## Author 
 YAKOB ALEMAYEHU 
